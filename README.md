@@ -42,3 +42,4 @@ What's the point of strong client side security when the server don't enforce it
 ## Contact
 
 support@nirmata.ai
+
